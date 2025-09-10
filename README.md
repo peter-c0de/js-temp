@@ -2,7 +2,7 @@
 JavaScript Basic Temp
 
 ## Alias:
-alias html-temp='git clone https://github.com/peter-c0de/js-temp; cd js-temp; bash clean.sh; exit'
+alias js-temp='git clone https://github.com/peter-c0de/js-temp; cd js-temp; bash clean.sh; exit'
 
 $. .bashrc
 
